@@ -1,4 +1,4 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.pexels.com/photo/photo-of-turned-on-laptop-computer-943096//assets/images/electrocat.png)
+https://www.pexels.com/photo/photo-of-turned-on-laptop-computer-943096/assets/images/electrocat.png
 
 ## Hi, I’m Shahd Waleed! 👋
 ## About me
