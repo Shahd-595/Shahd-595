@@ -1,9 +1,9 @@
 ## Hi, I’m Shahd Waleed ! 👋
 ## About me
-###🎓 I'm a student in the Faculty of Computing and Data Science.
-###👀 I have a greater interest in programming.
-###💻 I'm interest in learning Java and spending time on the computer.
-###🚀 I like to improving my skills.
+🎓 I'm a student in the Faculty of Computing and Data Science.
+👀 I have a greater interest in programming.
+💻 I'm interest in learning Java and spending time on the computer.
+🚀 I like to improving my skills.
 
 
 
