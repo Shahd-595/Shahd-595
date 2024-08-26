@@ -1,5 +1,5 @@
-### Hi, I’m Shahd Waleed ! 👋
-# About me
+# Hi, I’m Shahd Waleed ! 👋
+## About me
  
 🎓 I'm a student in the Faculty of Computing and Data Science.
 👀 I have a greater interest in programming.
