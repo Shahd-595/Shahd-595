@@ -1,4 +1,4 @@
-https://www.pexels.com/photo/photo-of-turned-on-laptop-computer-943096/assets/images/electrocat.png
+
 
 ## Hi, I’m Shahd Waleed! 👋
 ## About me
